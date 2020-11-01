@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+PyBabies é uma iniciativa para reunir pessoas com interesse em incentivar crianças e adolescentes a experimentarem o mundo científico e tecnológico.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Divulgação na PythonBrasil 12: http://www.slideshare.net/TaniaAndreaMirandaMoreira/sobre-pybabies-na-pythonbrasil12
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Twitter: https://twitter.com/pybabies
 
+Instagram: https://www.instagram.com/pybabies/
 
-[jekyll-organization]: https://github.com/jekyll
+Estamos preparando material para subir pro GitHub: https://github.com/pybabies
+
+Sugestão de locais para crianças que ajudam neste aprendizado: Planetário, Museus de Ciência e Tecnologia ao redor do mundo.
+
+Se junte a nós e organize eventos em sua cidade!
