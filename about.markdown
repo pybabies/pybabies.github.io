@@ -11,6 +11,7 @@ Divulgação na [PythonBrasil 12]: http://www.slideshare.net/TaniaAndreaMirandaM
 Se junte a nós e organize eventos em sua cidade!
 
 Twitter: https://twitter.com/pybabies
+
 Instagram: https://www.instagram.com/pybabies/
 
 Estamos preparando material para subir pro GitHub: https://github.com/pybabies
