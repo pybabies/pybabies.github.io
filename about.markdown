@@ -6,7 +6,7 @@ permalink: /about/
 
 PyBabies é uma iniciativa para reunir pessoas com interesse em incentivar crianças e adolescentes a experimentarem o mundo científico e tecnológico.
 
-Divulgação na [PythonBrasil 12]: http://www.slideshare.net/TaniaAndreaMirandaMoreira/sobre-pybabies-na-pythonbrasil12
+Divulgação na PythonBrasil 12: http://www.slideshare.net/TaniaAndreaMirandaMoreira/sobre-pybabies-na-pythonbrasil12
 
 Se junte a nós e organize eventos em sua cidade!
 
